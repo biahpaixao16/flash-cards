@@ -107,11 +107,11 @@ criaCartao(
 
 criaCartao(
 'Matemática',
-'Como tangente de um ângulo é calculada?',
+'Como a tangente de um ângulo é calculada?',
 'Tan = cateto oposto/ cateto adjacente.')
 
 
 criaCartao(
 'Matemática',
-'O que é o Teorema de Carnot?',
+'Qual é o Teorema de Carnot?',
 'a²=b²+c²-2bc cosA')
