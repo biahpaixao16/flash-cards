@@ -95,7 +95,7 @@ criaCartao(
 
 criaCartao(
 'Matemática',
-'Qual é a lei de formação?',
+'Qual é a lei de formação geral de uma função logaritmica?',
 'f(x) = log a^x.')
 
 
